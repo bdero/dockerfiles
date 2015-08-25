@@ -1,5 +1,5 @@
 FROM cromo/devkitarm
-MAINTAINER Cristian Romo "cristian.g.romo@gmail.com"
+MAINTAINER Brandon DeRosier "x@bdero.me"
 
 RUN apt-get update && \
   apt-get install -y \
