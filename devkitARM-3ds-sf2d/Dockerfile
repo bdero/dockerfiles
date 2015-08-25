@@ -1,4 +1,4 @@
-FROM cromo/devkitarm-3ds
+FROM bdero/devkitarm-3ds
 MAINTAINER Brandon DeRosier "x@bdero.me"
 
 RUN apt-get update && \
