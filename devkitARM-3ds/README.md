@@ -5,7 +5,7 @@ Everything needed to build GBA, NDS, and 3DS games.
 ## Usage
 
 ```sh
-$ docker run --rm -it -v $(pwd):/source cromo/devkitarm-3ds
+$ docker run --rm -it -v $(pwd):/source bdero/devkitarm-3ds
 ```
 
 ### Examples
